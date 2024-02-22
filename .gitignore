@@ -1,0 +1,7 @@
+.idea
+.venv
+myenv
+dataset
+test
+training
+facial_recognition_model.pth
